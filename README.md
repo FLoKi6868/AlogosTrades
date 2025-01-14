@@ -70,7 +70,9 @@ AlogosTrades is a Python-based application designed to analyze and rank stocks a
 - Future versions will include visualizations and predictive analytics.
 
 ## Contribution
-Although this project is currently for personal use, it is structured to be open-source and ready for collaboration. Future updates will include detailed contribution guidelines and documentation for developers.
+Although this project is currently for personal use, it is structured to be open-source and ready for collaboration. Future updates will include detailed contribution guidelines and documentation for developers. Additionally, if after sufficient testing the program demonstrates a consistently profitable and successful rate, it will be considered for public deployment to allow others to use it.
+
+## License
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
